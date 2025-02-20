@@ -4,7 +4,7 @@
 
 [![Deploy Pages](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-lucas-nguyen0/workflows/Deploy%20Pages/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-lucas-nguyen0/actions)
 
-This site can be found at: [https://MTHS-ICD2O-1-2024.github.io/lucas-nguyen0](https://MTHS-ICD2O-1-2024.github.io/lucas-nguyen0)
+This site can be found at: [https://icd2o-1-teh.type-code.cloud/~lucas.nguyen/ICD2O-1/Unit-1/ICD2O-Unit-1-03-lucas-nguyen0/](https://MTHS-ICD2O-1-2024.github.io/lucas-nguyen0)
 
 ---
 
